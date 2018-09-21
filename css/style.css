@@ -540,7 +540,7 @@ button:focus,
  * Preloader
  * ====================*/
 #preloader {
-    background : #2a54f5;
+    background : #95a5a6;
     bottom     : 0;
     left       : 0;
     position   : fixed;
@@ -551,7 +551,7 @@ button:focus,
 
 #status,
 .status-mes {
-    background-image    : url(../img/puff.svg);
+    background-image    : url(../img/rings.svg);
     background-position : center;
     background-repeat   : no-repeat;
     height              : 200px;
